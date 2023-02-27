@@ -1,34 +1,9 @@
-/**
+
 
 /*Google Fonts*/
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&amp;display=swap");
-/*--------------------------------------------------------------
->> TABLE OF CONTENTS:
-----------------------------------------------------------------
-1. Typography
-2. Spacing
-3. General
-4. Preloader
-5. Header
-6. Button
-7. Slider
-8. Section Heading
-9. Icon box
-10. Text Block
-11. Text Block
-12. Video Block
-13. Image Box
-14. Funfact
-15. Isotope
-16. Image Gallery
-17. Skill
-18. Post
-19. Testimonial
-20. Contact Form
-21. Blog Details
-22. Comments
-23. Footer
+
 
 --------------------------------------------------------------*/
 /*--------------------------------------------------------------
@@ -1018,7 +993,7 @@ hr {
 }
 
 .st-hero.st-style2 h1 {
-  font-size: 60px;
+  font-size: 55px;
   font-weight: 600;
   margin-bottom: 20px;
 }
